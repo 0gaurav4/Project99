@@ -1,0 +1,56 @@
+{
+  "name": "State High Hack Club",
+  "description": "A club for making + coding at State College Area High School, a chapter of the international Hack Club organization. We meet weekly on Mondays, room C122.",
+  "url": "https://statehigh.hackclub.com",
+  "repo": "https://github.com/schacks/site",
+  "card": "https://statehigh.hackclub.com/card.png",
+  "meeting": {
+    "month": "Sept",
+    "day": 19
+  },
+  "urls": {
+    "slack": "https://hackclub.com/slack_invite",
+    "github": "https://github.com/schacks",
+    "email": "mailto:aga18@scasd.org"
+  },
+  "leaders": [
+    { "name": "Angie Abraham", "pronouns": "she/her", "email": "aga18" },
+    { "name": "Jerry Zhang", "pronouns": "he/him", "email": "jxz21" }
+  ],
+  "workshops": [
+    { "slug": "personal_website", "name": "Personal Website" },
+    { "slug": "find_bigfoot", "name": "Find Bigfoot" },
+    { "slug": "synth", "name": "Synth"},
+    { "slug": "dashboard", "name": "Dashboard" },
+    { "slug": "thunderstorm", "name": "Thunderstorm" },
+    { "slug": "geometric_pattern", "name": "Geometric Pattern" },
+    { "slug": "dodge", "name": "Dodge" },  
+    { "slug": "platformer", "name": "Platformer"},
+    { "slug": "collaborative_sketch", "name": "Sketch Together"},
+    { "slug": "tree_machine", "name": "Tree Machine" },
+    { "slug": "julia_fractals", "name": "Julia Fractals" }
+  ],
+  "links": [
+    { "href": "http://hackclub.com/slack_invite", "children": "Slack" },
+    {
+      "href": "https://hackclub.com/conduct",
+      "children": "Code of Conduct"
+    },
+    {
+      "href": "https://replit.com/signup",
+      "children": "Replit"
+    },
+    {
+      "href": "https://tinyurl.com/hc-attendance",
+      "children": "Attendance Form"
+    },
+    {
+      "href": "https://tinyurl.com/hcwebsubmission",
+      "children": "Submission Form"
+    }
+  ],
+  "announcements": [
+    { "slug": "interest_form", "message": "Fill out the {Interest Form|https://forms.gle/XpHtfzZVQprCfjGU6}" },
+    { "slug": "google", "message": "Come to the first meeting!" }
+  ]
+}
